@@ -1,0 +1,4 @@
+Luis;Alvarez;10;15
+NN;YY;5;18
+XX;QQ;20;20
+AA;EE;13;1
