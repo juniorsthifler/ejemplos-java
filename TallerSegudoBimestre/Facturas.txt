@@ -1,0 +1,10 @@
+**********Comercial Ventas y Reventas**********
+Nombre: Marco
+Ciudad: Loja
+-----------------------------------
+Producto       Cant       Precio
+ARROZ       3       7,50
+----------------------------------------
+Subtotal: 7,50
+IVA: 1,05
+TOTAL: 8,55
